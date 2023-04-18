@@ -1,0 +1,15 @@
+F:\Project\Lesons_С#\HelloUser\bin\Debug\net7.0\HelloUser.exe
+F:\Project\Lesons_С#\HelloUser\bin\Debug\net7.0\HelloUser.deps.json
+F:\Project\Lesons_С#\HelloUser\bin\Debug\net7.0\HelloUser.runtimeconfig.json
+F:\Project\Lesons_С#\HelloUser\bin\Debug\net7.0\HelloUser.dll
+F:\Project\Lesons_С#\HelloUser\bin\Debug\net7.0\HelloUser.pdb
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.csproj.AssemblyReference.cache
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.AssemblyInfoInputs.cache
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.AssemblyInfo.cs
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.csproj.CoreCompileInputs.cache
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.dll
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\refint\HelloUser.dll
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.pdb
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\HelloUser.genruntimeconfig.cache
+F:\Project\Lesons_С#\HelloUser\obj\Debug\net7.0\ref\HelloUser.dll
