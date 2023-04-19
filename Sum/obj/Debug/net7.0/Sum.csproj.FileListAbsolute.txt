@@ -1,0 +1,15 @@
+F:\Project\Lesons_С#\Sum\bin\Debug\net7.0\Sum.exe
+F:\Project\Lesons_С#\Sum\bin\Debug\net7.0\Sum.deps.json
+F:\Project\Lesons_С#\Sum\bin\Debug\net7.0\Sum.runtimeconfig.json
+F:\Project\Lesons_С#\Sum\bin\Debug\net7.0\Sum.dll
+F:\Project\Lesons_С#\Sum\bin\Debug\net7.0\Sum.pdb
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.csproj.AssemblyReference.cache
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.AssemblyInfoInputs.cache
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.AssemblyInfo.cs
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.csproj.CoreCompileInputs.cache
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.dll
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\refint\Sum.dll
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.pdb
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.genruntimeconfig.cache
+F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\ref\Sum.dll
