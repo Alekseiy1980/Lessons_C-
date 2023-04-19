@@ -1,6 +1,6 @@
 ﻿Console.Write ("Введите имя пользователя : ");
 string userName = Console.ReadLine();
-if(userName == "Маша")
+if(userName.ToLower() == "Маша")
 {
     Console.WriteLine("Ура, это Маша!!!");
 }
