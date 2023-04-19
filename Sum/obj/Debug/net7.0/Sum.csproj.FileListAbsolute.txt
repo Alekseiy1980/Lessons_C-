@@ -13,3 +13,4 @@ F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\refint\Sum.dll
 F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.pdb
 F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\Sum.genruntimeconfig.cache
 F:\Project\Lesons_С#\Sum\obj\Debug\net7.0\ref\Sum.dll
+C:\Users\Aleks\Desktop\GeekBrains\Lessons_C#\Lessons_C-\Sum\obj\Debug\net7.0\Sum.pdb
